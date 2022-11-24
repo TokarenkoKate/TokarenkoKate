@@ -1,7 +1,12 @@
-# Hi, it's nice to see you!
-Welcome to my page, my name's Kate, I'm a junior front-end developer from Russia, Rostov-on-Don,
-currenlty living in Israel, Haifa 
+# Hi, I'm Kate! :smile:
+# It's nice to see you!
+I'm a junior front-end developer from Russia, Rostov-on-Don, currenlty living in Israel, Haifa. 
 
+* :collision: I am passionate about new real projects 
+* :star2:	Doing my best to keep up with all updated technologies
+* :sparkles:	Learning new things about web-development every day
+* :boom:	The most important things for me is code quality, accesibility and aesthetic design
+* :star:	I’d like to to create websites and applications to make a perfect user experience
 
 ## 🌐 Socials:
 <div>
